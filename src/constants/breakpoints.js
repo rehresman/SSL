@@ -1,5 +1,6 @@
 export default {
-  DESKTOP: 992,
-  TABLET: 768,
-  PHONE: 376,
+	HEADER: 1068,
+	DESKTOP: 992,
+	TABLET: 768,
+	PHONE: 376,
 };

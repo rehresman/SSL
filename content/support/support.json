@@ -1,0 +1,38 @@
+{
+	"title": "Support",
+	"questions": [
+		{
+			"question": "What is the Synth Sound Library?",
+			"answer": "The Synth Sound Library is a collection of fine, rare, classic, and unique original patches spanning decades. These sounds have been assembled based on the idea that more sounds doesn't necessarily mean better sounds. That's why the focus of the Synth Sound Library is to produce only the absolute highest-quality patches, grouped into relatively small, well-organized organized bundles. Many of the patches are available for inspiration, learning and listening through YouTube videos. The synthesizers currently covered include the Sequential Prophet 6, the Korg Poly 800, and the Korg Minilogue. All patches are available for sale."
+		},
+		{
+			"question": "Do you offer any free sounds?",
+			"answer": "Yes! They are not currently direct-downloadable, but my instructional synthesizer videos show step-by-step instructions to faithfully recreate some of the most delicious patches yourself, completely for free! The videos focus on various synthesizers, although many of the patches shown in the videos are just as easy to make on different synthesizers as well."
+		},
+		{
+			"question": "How do I load sounds on to my synth?",
+			"answer": "It really depends on the synthesizer. Modern synths are easier because of the magic of MIDI. In general, your synth manuals and the manufacturers websites are the best sources of information, but I provide basic guidance in the README files of the sound packs."
+		},
+		{
+			"question": "Where can I find your YouTube Channel?",
+			"answer": "",
+			"content": "youtube.md"
+		},
+		{
+			"question": "How do these patches sound in a mix?",
+			"answer": "All patches are designed for functionality. They're meant to be used in the real world, in the studio, live, and anywhere else. This means they won't take over your mix, get swallowed up by the guitarist, or leave the sound guy scratching his head.  That being said, my recommendation is to turn down the resonance to zero for most patches in multitrack recording applications.  The patch may have less character and wow-factor, but it will usually sound better in the context of other instruments."
+		},
+		{
+			"question": "What does \"Available via download link\" mean, and how do I receive my purchased sound pack?",
+			"answer": "A download link will be emailed to you upon reciept of payment. In case of any difficulties, simply contact me and I will help you."
+		},
+		{
+			"question": "When will patches for an unmodded Poly-800 be available?",
+			"answer": "Many of the patches in the Custom Complete Patch Pack are compatible with unmodded units, but require a filter cutoff adjustment and resonance adjustment.  Due to resonance restrictions on unmodded units, not all of them are.  I do not currently have plans to make a patch pack for unmodded units, because I am focusing on other synths right now."
+		},
+		{
+			"question": "Disclaimer",
+			"answer": "The information contained in this website is for general information purposes only. The information is provided by the Synth Sound Library and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk. In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website. Through this website you are able to link to other websites which are not under the control of the Synth Sound Library. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. Every effort is made to keep the website up and running smoothly. However, the Synth Sound Library takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control."
+		}
+	]
+}

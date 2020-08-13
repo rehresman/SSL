@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import { accent } from 'constants/theme';
+import { orange, darkOrange, white } from 'constants/theme';
 
 export default createGlobalStyle`
   html, body, div, span, applet, object, iframe,
@@ -33,8 +33,12 @@ export default createGlobalStyle`
     font-size: 62.5%;
   }
 
+  .header-offset{
+  	padding-top: 71px;
+  }
+
   body {
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     line-height: 1;
     font-size: 1.6rem;
     color: #000;
@@ -61,6 +65,15 @@ export default createGlobalStyle`
     content: '';
     content: none;
   }
+	footer {
+  	font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+		font-size: 2.6rem;
+		font-style: italic;
+	}
 
   table {
     border-collapse: collapse;
@@ -68,7 +81,30 @@ export default createGlobalStyle`
   }
 
   a {
-    color: ${accent};
+    color: ${orange};
+  }
+
+  a:hover {
+  	color: ${darkOrange}
+  }
+
+  button {
+  	background-color: ${orange};
+  	color: ${white}
+  	font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+ 		font-size: 1.6rem;
+ 		border: none;
+ 		padding: 1rem;
+ 		cursor: pointer;
+ 		
+  }
+
+  button:hover {
+  	background-color: ${darkOrange};
+  }
+
+  button:focus {
+  	outline: ${orange} auto 1px;
   }
 
   pre {
@@ -79,7 +115,7 @@ export default createGlobalStyle`
     font-size: 85%;
     line-height: 1.45;
     border-radius: 5px;
-    color: ${accent};
+    color: ${orange};
     border: 1px solid #ddd;
     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
   }
@@ -89,6 +125,14 @@ export default createGlobalStyle`
   }
 
   p {
+  	font-family: "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     margin-bottom: 2rem;
+    line-height: 2.6rem;
+    font-weight: 300;
+  }
+
+  .page-title {
+  	margin-top: 2.6rem;
+  	margin-bottom: 2.6rem;
   }
 `;

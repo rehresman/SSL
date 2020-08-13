@@ -1,0 +1,96 @@
+{
+	"title": "Synths",
+	"info": "Buying a patch pack is easy! On reciept of payment you will recieve an email containing a link to the patches. Once purchased the patches may be used in any fashion including commercial and live productions. Resale or redistribution of any kind of this product is expressly forbidden.",
+	"models": [
+		{
+			"model": "Prophet 6",
+			"make": "Sequential",
+			"slug": "/sequential-prophet-6/",
+			"image": "../images/p6-banner.jpg",
+			"soundPacks": [
+				{
+					"name": "Producers' Special Bundle",
+					"descriptionShort": "All three sound packs for the Prophet 6",
+					"descriptionLong": "All three Prophet 6 sound packs for the price of two! This is 60 patches in total, including the Cactus Dream Sound Pack, Heavyweights Bass Sound Pack, and Lilly Pads Patch Pack.  Geared towards the working producer on a time-budget, it's just enough to have a wide sonic palette, while remaining focused enough to avoid spending hours sifting through irrelevant sounds that aren't truly top-tier.",
+					"cartLink": "https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=344190&i=1668875",
+					"videoLink": "",
+					"price": "19.99",
+					"slug": "/sequential-prophet-6/producers-special-bundle-sound-pack/",
+					"image": "../images/producers-special.jpg",
+					"category": "Compilation"
+				},
+				{
+					"name": "Cactus Dream Sound Pack",
+					"descriptionShort": "Psychedelic sounds galore",
+					"descriptionLong": "The legendary Sequential synth is back! A 6 voice analog synth that can move mountains, the Prophet 6 is a Dave Smith keyboard masterpiece. Psychedelic sounds galore, these patches will help guide your sound towards dreamy, spacy vibes. The Cactus Dream Sound Pack consists of 20 warm, wet, natural, sounds that will fit into modern psychedelic indie rock just as well as a jam track from the 70s.",
+					"cartLink": "https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=344190&i=1601450",
+					"videoLink": "https://www.youtube.com/embed/HHfw6SJGwpE",
+					"price": "9.99",
+					"slug": "/sequential-prophet-6/cactus-dream-sound-pack/",
+					"image": "",
+					"category": "Psychedelic"
+				},
+				{
+					"name": "Heavyweights Bass Sound Pack",
+					"descriptionShort": "Squat, thuddy workhorses",
+					"descriptionLong": "Bigger, badder, and beefier! The Heavyweights Bass Sound Pack is 20 of the thuddiest, fattest bass patches on the planet. Ranging from squat, all-analog slugfests to dominant coloring sounds, they are addictive, playable, and guaranteed to sit well in a mix.",
+					"cartLink": "https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=344190&i=1620388",
+					"videoLink": "https://www.youtube.com/embed/ETZB9bmMqHM",
+					"price": "9.99",
+					"slug": "/sequential-prophet-6/heavyweights-bass-sound-pack/",
+					"image": "",
+					"category": "Bass"
+				},
+				{
+					"name": "Lilly Pads Sound Pack",
+					"descriptionShort": "Sensitive, deep, and saturated",
+					"descriptionLong": "Pads define the quintessential Prophet 6 sound like nothing else. Specially made for film scores, ambient music, and soundscapes, the Lilly Pads Sound Pack contains 20 of the most sensitive, deep, subtle, and carefully saturated pads.",
+					"cartLink": "https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=344190&i=1620388",
+					"videoLink": "https://www.youtube.com/embed/CKSu10hnJcw",
+					"price": "9.99",
+					"slug": "/sequential-prophet-6/lilly-pads-sound-pack/",
+					"image": "",
+					"category": "Pads"
+				}
+			]
+		},
+		{
+			"model": "Poly 800",
+			"make": "Korg",
+			"slug": "/korg-poly-800/",
+			"image": "../images/poly800-banner.jpg",
+			"soundPacks": [
+				{
+					"name": "Custom Complete Patch Pack",
+					"descriptionShort": "Vintage, resonant textures",
+					"descriptionLong": "The Korg Poly 800 Custom Complete Patch Pack is a collection of 64 patches designed specially for units with the Moog Slayer Mod. Whether your style is modern, classic, psychedelic, or vaporwave, this sound pack does it all! Using the Moog Slayer technology, your beloved Korg Poly 800 can reach the heights a modern powerhouse. Featuring massive synth sounds from today and the freshest takes on classic 80s sound presets. Currently only compatible with Moog Slayer mod units.",
+					"cartLink": "https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=344190&i=1600885",
+					"videoLink": "https://www.youtube.com/embed/5-CNT_EbIg4",
+					"price": "14.99",
+					"slug": "/korg-poly-800/custom-complete-patch-pack",
+					"image": "",
+					"category": "Compilation"
+				}
+			]
+		},
+		{
+			"model": "Minilogue",
+			"make": "Korg",
+			"slug": "/korg-minilogue/",
+			"image": "../images/minilogue-banner.jpg",
+			"soundPacks": [
+				{
+					"name": "Vintage Modern Patch Refill",
+					"descriptionShort": "Aggressive, fat, techy",
+					"descriptionLong": "The Korg voice has changed over the years, but the basis of the polyphonic synth has not. This Minilogue is highly capable of doing it all! The Vintage Modern Patch Refill for the Korg Minilogue contains 10 patches spanning the 60s through the 80s, 90s and today. Focusing on aggressive, fat and dance-worthy sounds, these sounds pack a disco punch that'll make you rethink that roll of quarters.",
+					"cartLink": "https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=344190&i=1600885",
+					"videoLink": "https://www.youtube.com/embed/y4SdQoct7ww",
+					"price": "4.99",
+					"slug": "/korg-minilogue/vintage-modern-patch-refill/",
+					"image": "",
+					"category": "Refill"
+				}
+			]
+		}
+	]
+}

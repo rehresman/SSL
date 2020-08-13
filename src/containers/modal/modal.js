@@ -4,17 +4,17 @@ import { Consumer } from 'store/createContext';
 import Modal from 'components/modal';
 
 const ModalContainer = ({ children }) => (
-  <Consumer>
-    {({ open, showModal, hideModal }) => (
-      <Modal open={open} showModal={showModal} hideModal={hideModal}>
-        {children}
-      </Modal>
-    )}
-  </Consumer>
+	<Consumer>
+		{({ open, showModal, hideModal }) => (
+			<Modal open={open} showModal={showModal} hideModal={hideModal}>
+				{children}
+			</Modal>
+		)}
+	</Consumer>
 );
 
 ModalContainer.propTypes = {
-  children: PropTypes.node.isRequired,
+	children: PropTypes.node.isRequired,
 };
 
 export default ModalContainer;
